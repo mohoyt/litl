@@ -1,7 +1,13 @@
 # litl
 Litl is an easy to build 40% keyboard using only through hole components. It uses a separate microcontroller (like the Pro Micro or Elite C) to enable flexibility in connectivity and to further simplify the soldering experience (no more tricksy USB ports).
 
+![litl](img/litl2.jpeg "litl")
+
 ![litl pcb](img/pcb.png "litl pcb")
+
+[License](LICENSE)
+
+Litl is licensed under the [https://creativecommons.org/licenses/by-nc/4.0/](Creative Commons Attribution-NonCommercial 4.0 International license). This design as it stands in this repository may be freely reproduced, modified, and manufactured for PERSONAL USE ONLY and may not be reproduced in physical form for public sale. 
 
 ## Features
 * Only through hole components for easy soldering
