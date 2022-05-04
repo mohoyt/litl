@@ -36,7 +36,11 @@ Litl is licensed under the [https://creativecommons.org/licenses/by-nc/4.0/](Cre
 * Stabilisers (PCB mount) (4 x 2u or 2 x 2u + 6.25u or 2 x 2u depending on layout)
 * Rubber feet for the base
 
+[Build guide](build_guide.md)
+
 ## Known issues 
 Will be fixed in v2 but are present in v1
 * Esc key is missing holes for 5 pin switches (workaround is to cut the pins off that switch to make it 3 pin and with the plate it will still be stable)
 * Track routing goes under the front logo and makes it less clear, needs rerouting slightly
+
+![litl back](img/back.jpeg "litl back")
