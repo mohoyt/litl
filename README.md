@@ -1,7 +1,7 @@
 # litl
 Litl is an easy to build 40% keyboard using only through hole components. It uses a separate microcontroller (like the Pro Micro or Elite C) to enable flexibility in connectivity and to further simplify the soldering experience (no more tricksy USB ports).
 
-![litl](img/litl2.jpeg "litl")
+![litl](img/litl_3.jpeg "litl")
 
 ![litl pcb](img/pcb.png "litl pcb")
 
@@ -43,4 +43,4 @@ Will be fixed in v2 but are present in v1
 * Esc key is missing holes for 5 pin switches (workaround is to cut the pins off that switch to make it 3 pin and with the plate it will still be stable)
 * Track routing goes under the front logo and makes it less clear, needs rerouting slightly
 
-![litl back](img/back.jpeg "litl back")
+![litl](img/litl2.jpeg "litl")

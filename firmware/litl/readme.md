@@ -6,8 +6,10 @@ Litl is an easy to build 40% keyboard using only through hole components. It use
 * Hardware Supported: litl, Pro Micro, Elite-C, Puchi-C, Nice!Nano
 * Hardware Availability: [GitHub](https://github.com/mohoyt/litl)
 
-Make example for this keyboard (after setting up your build environment):
+Make example for this keyboard (after setting up your build environment and dragging the litl folder to your `keyboards` folder):
 
-    make mohoyt/litl:default
+    make litl:default
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+
+Alternatively flash one of the precompiled hexes. One's a standard QMK one, and the other is one compatible with [Vial](https://get.vial.today).
