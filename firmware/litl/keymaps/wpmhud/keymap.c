@@ -66,3 +66,20 @@ bool encoder_update_user(uint8_t index, bool clockwise) {
   }
   return false;
 }
+
+bool oled_task_user(void) {
+    typehud_render();
+
+    return false;
+}
+
+bool process_record_user(uint16_t keycode, keyrecord_t *record) {
+    typehud_process_record(record);
+
+    return true;
+}
+
+// Include all keys for wpm calculation
+bool wpm_keycode_user(uint16_t keycode) {
+    return true;
+}

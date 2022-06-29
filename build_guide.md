@@ -42,7 +42,7 @@
 <img src="img/switches.JPG" alt="switches" width="400">
 9. Double check that your stabilisers are all correct (i.e. the wires are seated securely) and lubed as there's no going back once you've soldered switches in. Check again that that none of the switch pins are bent. 
 <img src="img/switch_under.JPG" alt="switch_under" width="400">
-10. Start soldering all the switches, OLED and encoders in place. Double check that you've not missed anything (it's easy to overlook a few)
+10. Start soldering all the switches, OLED and encoders in place. Pay attention to the orientation of the OLED - on Litl v1 the pins are reversed so you will have to mount your OLED screen facing to the left (over the diodes) or manually reverse the pins. The reversed pins are fixed from v2 onwards. Double check that you've not missed anything (it's easy to overlook a few switches).
 11. Attach the standoffs to the screws on the edges of the switch plate and position the base plate correctly and screw in the screws from the bottom too. Add the rubber bumbers to the base plate.
 12. Add some keycaps and encoder knobs and *you are done!* Have a test that everything's working as expected and maybe update/flash some new firmware if you feel like it. Enjoy!
 <img src="img/final_closeup.JPG" alt="final_closeup" width="400">
