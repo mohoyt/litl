@@ -44,5 +44,6 @@ Litl kits are available for sale at [sthlmkb.com](https://sthlmkb.com)
 Will be fixed in v2 but are present in v1
 * Esc key is missing holes for 5 pin switches (workaround is to cut the pins off that switch to make it 3 pin and with the plate it will still be stable)
 * Track routing goes under the front logo and makes it less clear, needs rerouting slightly
+* OLED pins are reversed so the OLED has to be mounted facing left (over the diodes) instead of right
 
 ![litl](img/litl2.jpeg "litl")
