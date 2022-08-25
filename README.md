@@ -1,7 +1,7 @@
 # litl
 Litl is an easy to build 40% keyboard using only through hole components. It uses a separate microcontroller (like the Pro Micro or Elite C) to enable flexibility in connectivity and to further simplify the soldering experience (no more tricksy USB ports).
 
-![litl](img/litl_3.jpeg "litl")
+![litl](img/litl_oled.jpeg "litl")
 
 ![litl pcb](img/pcb.png "litl pcb")
 
@@ -46,4 +46,4 @@ Have been fixed in v2 (and gerbers now updated) but were present in v1
 - [x] Track routing goes under the front logo and makes it less clear, needs rerouting slightly
 - [x] OLED pins are reversed so the OLED has to be mounted facing left (over the diodes) instead of right
 
-![litl](img/litl2.jpeg "litl")
+![litl](img/litl_3.jpeg "litl")
