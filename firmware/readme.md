@@ -12,4 +12,7 @@ Make example for this keyboard (after setting up your build environment and drag
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
-Alternatively flash one of the precompiled hexes. One's a standard QMK one, and the other is one compatible with [Vial](https://get.vial.today). Neither of the precompiled hexes support an OLED (or more than one encoder), these will be added in due course.
+Alternatively flash one of the precompiled hexes. There's a few options:
+* One's a standard QMK one
+* Another is one compatible with [Vial](https://get.vial.today) with no OLED support
+* Then there's two OLED Vial hexes. One with a WPM HUD and another with Bongocat
