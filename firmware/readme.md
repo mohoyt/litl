@@ -4,7 +4,7 @@ Litl is an easy to build 40% keyboard using only through hole components. It use
 
 * Keyboard Maintainer: [mohoyt](https://github.com/mohoyt)
 * Hardware Supported: litl, Pro Micro, Elite-C, Puchi-C, Nice!Nano
-* Hardware Availability: [GitHub](https://github.com/mohoyt/litl)
+* Hardware Availability: [Sthlm kb](https://sthlmkb.com/shop/litl-keyboard-kit/)
 
 Make example for this keyboard (after setting up your build environment and dragging the litl folder to your `keyboards` folder):
 
