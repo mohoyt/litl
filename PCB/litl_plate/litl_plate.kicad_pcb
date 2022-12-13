@@ -14636,7 +14636,7 @@
   (gr_text "JLCJLCJLCJLC" (at 257.85 124.15) (layer "B.SilkS") (tstamp 3eef14bc-918d-49b2-b75c-b7b8ddb6b560)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "litl v2\ndesign by mohoyt" (at 155.1875 105.05) (layer "B.SilkS") (tstamp ab14e182-d201-4cd4-9daf-2c4aadbb0100)
+  (gr_text "STHLM KB litl v2\ndesign by mohoyt" (at 155.1875 105.05) (layer "B.SilkS") (tstamp ab14e182-d201-4cd4-9daf-2c4aadbb0100)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
 
