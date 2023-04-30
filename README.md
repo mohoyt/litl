@@ -46,4 +46,7 @@ Have been fixed in v2 (and gerbers now updated) but were present in v1
 - [x] Track routing goes under the front logo and makes it less clear, needs rerouting slightly
 - [x] OLED pins are reversed so the OLED has to be mounted facing left (over the diodes) instead of right
 
+Have been fixed in v3 (and gerbers now updated) but were present in later iterations of v2
+- [x] Pin for switch alternative on left rotary encoder shorted with ground
+
 ![litl](img/litl_3.jpeg "litl")

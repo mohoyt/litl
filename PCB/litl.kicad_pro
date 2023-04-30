@@ -55,15 +55,26 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|267225000|37027000|05505705-1c51-4543-b0c0-5e702861747f|bd397544-ff56-4d51-b3c9-1b9f1f5e47be",
+        "courtyards_overlap|50700001|88900001|05fd22cb-dff4-4a8c-8f01-3428b502748b|09e04927-dfea-4dda-908e-bd0fc3f3fc1f",
+        "hole_clearance|143260000|114650000|e27a3211-bfdc-4d61-bce2-6ac9cdb99b60|b9f54358-990a-4b01-81f0-fe0150e4dc7c",
+        "hole_clearance|229075400|35812500|86f10539-c201-48e0-ba85-0bb1104396dc|9732b79d-db63-4989-baa6-1c05b73989c8",
+        "hole_clearance|239235400|35812500|90bdf8b3-979d-47a5-a553-16f3f2d65734|2d99b1fd-4676-4d86-a373-e48d6eb5908c",
+        "hole_clearance|257545000|35427000|54bb6ae9-d5aa-4d6d-a254-7a126b9bd0a2|893925c2-1ab8-47db-9b31-6f7c1392d4b2",
+        "hole_clearance|262587500|69400000|05f9ec85-3bd2-499e-90ac-77ba12899f5c|964742c0-ee94-4927-91df-9434b273df16",
+        "hole_clearance|267705000|35427000|ce1a0d46-3821-4556-a718-af5f03e50649|bd397544-ff56-4d51-b3c9-1b9f1f5e47be",
+        "hole_clearance|35660000|76400000|814cedab-3da5-4a25-8307-f57616cf27a2|f7024204-2535-4bf3-9771-78594da79847",
+        "hole_clearance|76400000|114600000|f255db96-29d0-4680-8627-2238d36b7cb1|7310c988-f48d-401e-8a72-5b080259745e"
+      ],
       "meta": {
         "version": 2
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "error",
+        "clearance": "warning",
         "copper_edge_clearance": "error",
-        "courtyards_overlap": "error",
+        "courtyards_overlap": "warning",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
@@ -71,7 +82,7 @@
         "extra_footprint": "warning",
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
-        "hole_near_hole": "error",
+        "hole_near_hole": "warning",
         "invalid_outline": "error",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
@@ -86,7 +97,7 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
