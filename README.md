@@ -48,5 +48,6 @@ Have been fixed in v2 (and gerbers now updated) but were present in v1
 
 Have been fixed in v3 (and gerbers now updated) but were present in later iterations of v2
 - [x] Pin for switch alternative on left rotary encoder shorted with ground
+- [x] Holes for optional acrylic cover have been readded
 
 ![litl](img/litl_3.jpeg "litl")
