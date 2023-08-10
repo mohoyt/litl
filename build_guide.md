@@ -31,7 +31,7 @@
 <img src="img/tape_diodes.JPG" alt="diode tape" width="400">
 3. Solder the diodes on (I soldered on the underside of the board) and trim their legs once the solder has cooled
 <img src="img/diodes_under.JPG" alt="diode soldering" width="400">
-4. Flash your controller and check that it is working as expected (e.g. when you plug it into the computer it is recognised as a USB keyboard device). See flashing instructions here.
+4. Flash your controller and check that it is working as expected (e.g. when you plug it into the computer it is recognised as a USB keyboard device). See flashing instructions [here](flash_guide.md).
 5. Solder your controller to the board. The board has offset holes so that hotswapping might work, but this didn't go so great in practice so I just soldered my controller on. You are of course very welcome to socket your controller too if you value switchability. I soldered headers onto my controller and then soldered everything onto the PCB and then trimmed the legs on the underside of the PCB. *Orientation matters* here so ensure that you have the controller in the right position. 
 <img src="img/promicro.JPG" alt="pro micro" width="400">
 6. Now you should be able to plug in your board and test that all keystrokes are recognised. I used a pair of tweezers to short the switch sockets for this. 
