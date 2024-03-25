@@ -16,3 +16,5 @@ Alternatively flash one of the precompiled hexes. There's a few options:
 * One's a standard QMK one
 * Another is one compatible with [Vial](https://get.vial.today) with no OLED support
 * Then there's two OLED Vial hexes. One with a WPM HUD and another with Bongocat
+
+The .hex file is if you're using an Atmel chip (like a traditional Pro Micro). The uf2 files are for a RP2040 style pro micro like the Helios. 
